@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\caim\StudioProjects\SalesManual_V8\app\src\main\assets"><file name="fonts/Roboto-Medium.ttf" path="C:\Users\caim\StudioProjects\SalesManual_V8\app\src\main\assets\fonts\Roboto-Medium.ttf"/><file name="fonts/Roboto-Thin.ttf" path="C:\Users\caim\StudioProjects\SalesManual_V8\app\src\main\assets\fonts\Roboto-Thin.ttf"/></source></dataSet><dataSet config="debug"><source path="C:\Users\caim\StudioProjects\SalesManual_V8\app\src\debug\assets"/></dataSet></merger>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_results.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list_text.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\custom_list_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_custom.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\action_bar_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sales_tool.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\sales_tool.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\book.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newbook.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\newbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\directory.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\directory.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\word.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\word.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fav_book.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\fav_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\layout\\category.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\un_favor.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\un_favor.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_2.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\ic_launcher_2.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon48x48_1.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\icon48x48_1.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_3.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\ic_launcher_3.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_star_holo_light.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\ic_menu_star_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fav_pdf.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\fav_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    }
+]

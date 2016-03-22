@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_1.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\home_1.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_arrow.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\new_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\arrow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_search.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_search.png"
+    }
+]

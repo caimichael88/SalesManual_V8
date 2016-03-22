@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent" 
+              android:layout_marginBottom="20dip"
+              android:layout_height="?android:attr/listPreferredItemHeight" 
+              android:orientation="vertical" >
+        <!-- Directory -->
+   
+ <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	 android:id="@+id/directory"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:layout_width="fill_parent"
+    	android:gravity="bottom"
+    	android:typeface="sans"
+    	android:textSize="18sp">
+    </TextView>
+              
+</LinearLayout>
+
+

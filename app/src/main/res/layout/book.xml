@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:cacheColorHint="#00000000"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="8dip">
+    
+   <!--  Book Title -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:layout_width="650dip"
+    	android:gravity="bottom"
+    	android:id="@+id/bookInfo"
+    	android:textStyle="italic">
+    </TextView>
+	
+	<!--  Book Type -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:layout_width="150dip"
+    	android:gravity="bottom"
+    	android:id="@+id/bookType"
+    	android:layout_toRightOf="@+id/bookInfo"
+    	android:layout_marginLeft="10dip">
+    </TextView>
+    
+    <!-- PRIIORITY -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:id="@+id/PRI"
+    	android:layout_toRightOf="@+id/bookType"
+    	android:layout_alignWithParentIfMissing="true"
+    	android:layout_marginLeft="10dip" android:layout_width="100dip">
+    </TextView>
+	
+	<!--  ISBN -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:layout_width="200dip"
+    	android:id="@+id/isbn"
+    	android:layout_toRightOf="@+id/PRI"
+    	android:layout_marginLeft="10dip">
+    </TextView>
+    
+    <!-- OFFICIAL PRITING -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:id="@+id/OFF"
+    	android:layout_alignWithParentIfMissing="true"
+    	android:layout_toRightOf="@+id/isbn"
+    	android:layout_marginLeft="5dip" android:layout_width="50dip">
+    </TextView>
+
+	<!-- PG -->
+    <TextView
+    	android:textAppearance="?android:attr/textAppearanceLarge"
+    	android:layout_height="wrap_content"
+    	android:text="TextView"
+    	android:id="@+id/PG"
+    	android:layout_alignWithParentIfMissing="true"
+    	android:layout_toRightOf="@+id/OFF"
+    	android:layout_marginLeft="10dip" android:layout_width="100dip">
+    </TextView>
+               
+   
+   <!--  <ImageButton
+    	android:id="@+id/fav_pdf"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:src="@drawable/fav_pdf"
+    	android:clickable="true"
+    	 
+    	android:background="@drawable/button_selector"
+    	 android:layout_alignParentBottom="true"
+    	android:layout_alignParentLeft="true"
+    	android:layout_below="@+id/bookInfo"
+    	android:layout_marginTop= "10dip"
+    	/>  -->
+    
+   
+</RelativeLayout >

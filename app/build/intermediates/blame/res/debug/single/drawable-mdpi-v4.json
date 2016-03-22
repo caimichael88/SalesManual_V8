@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\priority.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\priority.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\isbn.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\isbn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_icon.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\title_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\office.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\office.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_search.png",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type_icon.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\type_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\author_icon.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\author_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\type.jpg",
+        "source": "C:\\Users\\caim\\StudioProjects\\SalesManual_V8\\app\\src\\main\\res\\drawable-mdpi\\type.jpg"
+    }
+]

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OUP Sales Manual</string>
+    <string name="home">Home</string>
+    <string name="backtohome">Back to Home</string>
+    <string name="sublanding">Sub Landing</string>
+    <string name="anthropology">Anthropology</string>
+    <string name="biology">Biology</string>
+    <string name="business">Business</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="classics">Classics</string>
+    <string name="communicaiton">Communication</string>
+    <string name="education">Education</string>
+    <string name="engineering">Engineering</string>
+    <string name="english">English</string>
+    <string name="geography">Geography</string>
+    <string name="history">History</string>    
+    <string name="linguistics">Linguistics</string>
+    <string name="music">Music</string>
+    <string name="philosophy">PHILOSOPHY</string>
+    <string name="politicalscience">PoliticalScience</string>
+    <string name="psychology">Psychology</string>
+    <string name="religion">Religion</string>
+    <string name="socialwork">SocialWork</string>
+    <string name="sociology">Sociology</string>
+    <string name="main_no_items">No books to display</string>
+    <string name="action_label_author">Author</string>
+    <string name="action_label_title">Title</string>
+    <!-- The menu entry that invokes search. -->
+    
+    
+    <string name="menu_search">Search</string>
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Dictionary</string>
+
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Search by Authors, Books</string>
+    
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Definitions of words</string>
+    
+    <!-- General instructions in the main activity. -->
+    <string name="search_instructions">Use the search box in the Action Bar to look up a word</string>
+    
+    <!-- Search failure message. -->
+    <string name="no_results">No results found for \"%s\"</string>
+    
+    <!-- Shown above search results when we receive a search request. -->
+    <plurals name="search_results">
+      <item quantity="one">%1$d result for \"%2$s\": </item>
+      <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+    
+    <string name="sb_fav">ales Brief Favourites</string>
+    
+</resources>
